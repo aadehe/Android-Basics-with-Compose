@@ -1,1 +1,2 @@
 # Android Basics with Compose
+The **Android Basics with Compose** is the recommended course by Google to start learning Android Development! The course leads on to build a series of android apps using Jetpack Compose, the modern toolkit for creating user interfaces on Android. This course leverages on the Kotlin programming language to learn best practices in Material Design, app architecture, data storage, fetching data from the network, testing, and more.
